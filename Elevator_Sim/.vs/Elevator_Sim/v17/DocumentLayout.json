@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arkadiusz\\sqwareq-TP_Proj4_Winda\\Elevator_Sim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB65166-570B-436B-A545-675C9CF26DD5}|Elevator_Sim.vcxproj|C:\\Users\\Arkadiusz\\sqwareq-TP_Proj4_Winda\\Elevator_Sim\\Elevator_Sim.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1DB65166-570B-436B-A545-675C9CF26DD5}|Elevator_Sim.vcxproj|solutionrelative:Elevator_Sim.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Elevator_Sim.cpp",
+              "DocumentMoniker": "C:\\Users\\Arkadiusz\\sqwareq-TP_Proj4_Winda\\Elevator_Sim\\Elevator_Sim.cpp",
+              "RelativeDocumentMoniker": "Elevator_Sim.cpp",
+              "ToolTip": "C:\\Users\\Arkadiusz\\sqwareq-TP_Proj4_Winda\\Elevator_Sim\\Elevator_Sim.cpp",
+              "RelativeToolTip": "Elevator_Sim.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-08T08:09:40.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
